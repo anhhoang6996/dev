@@ -1,6 +1,9 @@
+
+package com.vn;
+
 public class HelloWord {
     // TODO
-    public HelloWorld(){
-
+    public void HelloWorld(){
+        System.out.println();
     } 
 }
